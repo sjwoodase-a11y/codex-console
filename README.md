@@ -9,11 +9,6 @@
 
 - GitHub Repo: [https://github.com/dou-jiang/codex-console](https://github.com/dou-jiang/codex-console)
 
-## QQ群
-
-- 交流群: [291638849（点击加群）](https://qm.qq.com/q/4TETC3mWco)
-- Telegram 频道: [codex_console](https://t.me/codex_console)
-
 ## 致谢
 
 首先感谢上游项目作者 [cnlimiter](https://github.com/cnlimiter) 提供的优秀基础工程。
